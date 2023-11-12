@@ -1,0 +1,9 @@
+body {
+    background-color: blanchedalmond;
+}
+
+img {
+    display: block; /* Membuat gambar menjadi elemen block untuk menggunakan margin: auto */
+    margin: auto; /* Memberikan margin otomatis untuk menggeser gambar ke tengah */
+    width: 10%;
+}
